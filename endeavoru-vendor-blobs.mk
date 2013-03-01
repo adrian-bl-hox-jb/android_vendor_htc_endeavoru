@@ -139,8 +139,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/etc/firmware/ti-connectivity/wl1271-nvs.bin:system/etc/firmware/ti-connectivity/wl1271-nvs.bin \
   vendor/htc/endeavoru/proprietary/etc/firmware/ti-connectivity/wl128x-fw-4-mr.bin:system/etc/firmware/ti-connectivity/wl128x-fw-4-mr.bin \
   vendor/htc/endeavoru/proprietary/etc/firmware/ti-connectivity/wl128x-fw-4-sr.bin:system/etc/firmware/ti-connectivity/wl128x-fw-4-sr.bin \
-  vendor/htc/endeavoru/proprietary/etc/firmware/ti-connectivity/wl128x-fw-mr.bin.r4:system/etc/firmware/ti-connectivity/wl128x-fw-mr.bin.r4 \
-  vendor/htc/endeavoru/proprietary/etc/firmware/ti-connectivity/wl128x-fw-mr.bin.r5:system/etc/firmware/ti-connectivity/wl128x-fw-mr.bin.r5 \
+  vendor/htc/endeavoru/proprietary/etc/firmware/ti-connectivity/wl128x-fw-4-plt.bin:system/etc/firmware/ti-connectivity/wl128x-fw-4-plt.bin \
   vendor/htc/endeavoru/proprietary/bin/calibrator:system/bin/calibrator \
   vendor/htc/endeavoru/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
   vendor/htc/endeavoru/proprietary/lib/libcapsjava.so:system/lib/libcapsjava.so \
