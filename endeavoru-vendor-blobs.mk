@@ -79,7 +79,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/lib/libnvrm.so:system/lib/libnvrm.so \
   vendor/htc/endeavoru/proprietary/lib/libnvos.so:system/lib/libnvos.so \
   vendor/htc/endeavoru/proprietary/lib/libnvparser.so:system/lib/libnvparser.so \
-  vendor/htc/endeavoru/proprietary/lib/libnvrm.so:system/lib/libnvrm.so \
   vendor/htc/endeavoru/proprietary/lib/libnvrm_graphics.so:system/lib/libnvrm_graphics.so \
   vendor/htc/endeavoru/proprietary/lib/libnvddk_2d.so:system/lib/libnvddk_2d.so \
   vendor/htc/endeavoru/proprietary/lib/libnvddk_2d_v2.so:system/lib/libnvddk_2d_v2.so \
