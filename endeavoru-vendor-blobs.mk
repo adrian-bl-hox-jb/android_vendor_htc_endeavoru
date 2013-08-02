@@ -76,6 +76,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/endeavoru/proprietary/lib/libfmradio.so:system/lib/libfmradio.so \
   vendor/htc/endeavoru/proprietary/lib/libfmstack.so:system/lib/libfmstack.so \
   vendor/htc/endeavoru/proprietary/lib/libcgdrv.so:system/lib/libcgdrv.so \
+  vendor/htc/endeavoru/proprietary/lib/libnvrm.so:system/lib/libnvrm.so \
   vendor/htc/endeavoru/proprietary/lib/libnvos.so:system/lib/libnvos.so \
   vendor/htc/endeavoru/proprietary/lib/libnvparser.so:system/lib/libnvparser.so \
   vendor/htc/endeavoru/proprietary/lib/libnvrm.so:system/lib/libnvrm.so \
